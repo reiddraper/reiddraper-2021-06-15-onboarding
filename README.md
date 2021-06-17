@@ -12,3 +12,7 @@ My name is Reid, and I am the author of this text that you are reading. I contro
 2. This is the second item in the list
 
 ![my hawaii image](merlin_184957629_5a369538-86d2-44e8-aa3c-14396b5c5b8e-articleLarge.jpeg)
+
+![my image name](image-name.jpg)
+
+Go visit my [homepage](https://google.com)
